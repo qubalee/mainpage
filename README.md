@@ -23,8 +23,5 @@ This page serves as a guide to my collection of links, providing easy access to 
 - Check out the **Blog** for my latest writings.
 - Feel free to reach out via the **Contact** section!
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 Thank you for visiting my personal page!
