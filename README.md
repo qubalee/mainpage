@@ -15,7 +15,6 @@ This page serves as a guide to my collection of links, providing easy access to 
 ## Technologies Used
 
 - HTML
-- CSS
 
 ## How to Navigate
 
